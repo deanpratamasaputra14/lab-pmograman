@@ -27,7 +27,8 @@ Ini adalah tampilan pertama setelah kalian selesai membuat akun git
 
 
 Langkah selanjutnya nanti anda akan dialihkan ke tab baru untuk membuat repositori baru, isi susuai inspirasi anda setelah selesai klik buat repositori.
-Screenshot (14)
+![195978469-53789f6c-4d88-4b94-ac44-77d8c05be1f0](https://user-images.githubusercontent.com/116070492/196395918-57d77a50-ae65-4b92-b0cd-1deeb679e0d1.png)
+
 
 Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
 Screenshot (18)
