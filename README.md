@@ -12,7 +12,8 @@ Lalu klik next simpan file lokasi instal di C:\ProgramFiles\Git(sesuai keinginan
 
 Setelah melakukan penginstalan, buka git cmd untuk mengetahui apakah sudah bisa melakukan proses atau belum jika muncul git version berarti sudah siap melakukan proses. Untuk mengetahui versinya ketikan perintah git --version. Saya memakai versi 2.38.0.windows.1
 
-Screenshot (19)
+![195978233-065cd98e-8f18-4b11-ab55-3ebec7a60813](https://user-images.githubusercontent.com/116070492/196393117-93f78014-8ce3-49d5-8af6-90d681be210b.png)
+
 
 Cara membuat akun git
 Disini anda harus membuat akun git terlebih dahulu untuk membuat repository server bukalah link tersebut http://github.com
