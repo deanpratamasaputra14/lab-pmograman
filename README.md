@@ -61,7 +61,9 @@ Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#lat
 
 
 Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit
-Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status. Screenshot (26)
+Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git ![p3](https://user-images.githubusercontent.com/116070492/196403086-335cbbe9-8a2e-4bdf-9dc0-df7a81000943.png)
+
+![p4](https://user-images.githubusercontent.com/116070492/196403553-3a8d5a7b-49c8-416f-ac6f-f847aaf4351a.png)
 
 Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit" 67557721-cadd1e80-f73f-11e9-8f44-dc52f8676eb3
 
