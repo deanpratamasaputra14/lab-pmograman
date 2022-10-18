@@ -45,7 +45,9 @@ Lalu kita akan menambahkan Config Global Repository pakai user name dan user ema
 ![195978607-35aa8e50-d7fd-4451-b5a6-754d887eb31f](https://user-images.githubusercontent.com/116070492/196398765-d49a2c3a-694e-4142-9699-852b450faa4d.png)
 
 
-Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LALU " cd lab_pemrograman1Screenshot (22) ".
+Buatlah direktori baru dengan menggunakan perintah " mkdir lab_pemrograman1 " LALU " cd lab_pemrograman.
+![p1](https://user-images.githubusercontent.com/116070492/196401603-91150713-56c5-4296-a2f6-ca32b60a9022.png)
+
 
 Cara penggunaan git dengan perintah daasar git init fungsi perintahnya untuk membuat repository local
 Lalu jalankan perintah git init untuk membuat membuat file kosong berformat GIT. File ini fungsinya untuk menyimpan semua perubahan pada working directory dan file ini terbentuknya hidden.
