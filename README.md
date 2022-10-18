@@ -27,7 +27,8 @@ Ini adalah tampilan pertama setelah kalian selesai membuat akun git
 
 
 Langkah selanjutnya nanti anda akan dialihkan ke tab baru untuk membuat repositori baru, isi susuai inspirasi anda setelah selesai klik buat repositori.
-![195978342-860c1ebf-98a0-470c-8586-272e72bfc79d](https://user-images.githubusercontent.com/116070492/196397066-a564d170-5f89-46e9-9336-80f7cb51fc2d.png)
+![195978342-860c1ebf-98a0-470c-8586-272e72bfc79d](https://user-images.githubusercontent.com/116070492/196397578-44585637-8d76-4b6a-9c02-f24821ad2bee.png)
+
 
 
 
