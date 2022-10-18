@@ -34,7 +34,8 @@ Langkah selanjutnya nanti anda akan dialihkan ke tab baru untuk membuat reposito
 
 
 Lalu nanti di tab baru ada url, url ini akan digunakan untuk remote GitHub.
-Screenshot (18)
+![195978391-435ade62-7139-47d7-b50b-073c6c000bdb](https://user-images.githubusercontent.com/116070492/196398236-2380e79e-4214-4c8e-8e54-e828500ca458.png)
+
 
 Membuat Repository Local
 Lalu kita buka file explorer pilih dilocal disk (c) (atau dmana saja sesuai keinginan anda), lalu klik kanan pilih Git Bash here . Screenshot (20)
