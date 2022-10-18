@@ -7,6 +7,7 @@ Pertama anda harus mendownload Aplikasi Git, buka website resminya Git di git-sc
 
 Lalu klik next simpan file lokasi instal di C:\ProgramFiles\Git(sesuai keinginan anda) , lalu di next saja semua sampai ke step install, TUNGGU SAMPAI SELESAI.
 ![67549597-d8d67380-f72e-11e9-9387-456db6ca1fb8](https://user-images.githubusercontent.com/116070492/196392420-b9cd0b65-6624-4af5-a61a-8e70e9cba9cc.png)
+![195978194-04778e47-f0cd-4d03-9ceb-23394a12b588](https://user-images.githubusercontent.com/116070492/196392730-db8aed3d-2dab-4ca9-a3fa-df4e93e0babf.png)
 
 
 Setelah melakukan penginstalan, buka git cmd untuk mengetahui apakah sudah bisa melakukan proses atau belum jika muncul git version berarti sudah siap melakukan proses. Untuk mengetahui versinya ketikan perintah git --version. Saya memakai versi 2.38.0.windows.1
