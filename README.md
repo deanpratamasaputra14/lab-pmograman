@@ -65,7 +65,7 @@ Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. 
 
 ![p4](https://user-images.githubusercontent.com/116070492/196403553-3a8d5a7b-49c8-416f-ac6f-f847aaf4351a.png)
 
-Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit" 67557721-cadd1e80-f73f-11e9-8f44-dc52f8676eb3
+Untuk menyimpan perubahan yang ada kedalam database gunakan perintah git commit -m “komentar commit" 
 
 File berhasil tersimpan
 Langkah berikutnya kita kembali ke website GitHub untuk melihat repositori yang sudah dibuat. Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “git remote add origin [url] “ DAN PERINTAH GIT CLONE “ git clone [ url ] “_
@@ -84,4 +84,6 @@ Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti 
 Selesai Jika ingin melihat hasilnya cek di laman gethub arahkan ke repositorinya
 
 FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas.
+
+
 Terimakasih
