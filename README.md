@@ -57,7 +57,8 @@ Lalu jalankan perintah git init untuk membuat membuat file kosong berformat GIT.
 
 Lalu buat 1 file baru bernama README.md, dengan memasukan perintah _echo “#latihan1” >> README.md. Lalu untuk melihat file ketik perintah “ls
 
-Screenshot (24)
+![p2](https://user-images.githubusercontent.com/116070492/196402444-b22d6185-0451-439a-a317-8c8fdb180814.png)
+
 
 Cara penggunaan git dengan perintah dasar git add fungsi perintahnya untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit
 Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add. Dengan perintah $ git add README.md. Kalau ingin melihat infonya ketik perintah git status. Screenshot (26)
